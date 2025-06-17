@@ -1,4 +1,4 @@
-# ✅ React Native To-Do App – EaseLearn AI Intern Assignment
+# ✅ React Native To-Do App – EaseLearn AI Assignment
 
 A clean and user-friendly To-Do List app built with React Native. It demonstrates:
 
