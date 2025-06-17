@@ -27,5 +27,5 @@ A clean and user-friendly To-Do List app built with React Native. It demonstrate
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/react-native-todo-easelearn.git
+git clone https://github.com/drashti02/rn-todo-app.git
 cd react-native-todo-easelearn
